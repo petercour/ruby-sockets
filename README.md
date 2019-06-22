@@ -1,4 +1,4 @@
-Ruby socket server, both single client and multi-client.
+Ruby socket server, both single client, multi-client and web browser.
 Use telnet to connect to the server
 
     telnet> o
